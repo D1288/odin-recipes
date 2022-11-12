@@ -1,0 +1,44 @@
+.img {
+    width: 400px;
+    height: 400px;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-stretch: extra-expanded;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.homepagelinks {
+    font-size: 40px;
+    color: black;
+    border-width: 2px;
+    background-color: rgb(104, 100, 100);
+    border-style: solid;
+}
+
+ul {
+    list-style: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+div {
+    background-color: rgb(182, 176, 176);
+}
+
+.box {
+    margin: 20px;
+    background-color: bisque;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
